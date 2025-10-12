@@ -99,7 +99,7 @@ top5_performance/
 - **Assia Ben Hamou**  
 - **Anouar Laloy**
 
-*Supervised by Prof. Catherine Dehon — Université Libre de Bruxelles (ULB)*  
+*Supervised by Prof. Catherine Dehon, Université Libre de Bruxelles (ULB)*  
 
 ---
 
