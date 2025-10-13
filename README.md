@@ -63,7 +63,7 @@ The project follows a rigorous methodology combining exploratory, robust, and mu
 ##  Key Insights
 
 - **Age ≠ Performance:**  
-Age alone does not fully explain offensive performance — both young and experienced players can reach similar efficiency levels.
+Age alone does not fully explain offensive performance, both young and experienced players can reach similar efficiency levels.
 
 -**League Trends:**  
 - **Ligue 1** tends to attract **younger** players.  
