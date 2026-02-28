@@ -46,11 +46,11 @@ The project follows a rigorous methodology combining exploratory, robust, and mu
 - Application of the **Robust Mahalanobis Distance (MCD)** to identify abnormal observations
 - Visualization of influential points and potential anomalies
 
-### 3️) Robust Principal Component Analysis (PCA)
+### 3) Robust Principal Component Analysis (PCA)
 - Conducted via `PcaHubert()` to reduce dimensionality while resisting the influence of outliers
 - Identification of the main latent factors driving offensive performance
 
-### 4️) Binary Correspondence Analysis (ACOBI)
+### 4) Binary Correspondence Analysis (ACOBI)
 - Studied the association between **league** and **age category**
 - Highlighted the differences in player age profiles across European leagues
 
